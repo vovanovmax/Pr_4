@@ -1,0 +1,41 @@
+html {
+    background-color: #e0f7fa; /* Змінений колір фону */
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    padding: 20px;
+    border: 2px solid #006064; /* Змінений колір рамки */
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #006064;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    cursor: pointer; /* Додаємо курсор, щоб було видно, що на картинку можна клікати */
+}
+
+p, li {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #006064;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
